@@ -12,8 +12,8 @@ This project is a self-learning exercise aimed at building a sarcasm detection m
 - [Model Evaluation](#model-evaluation)
 - [Usage](#usage)
 - [Results](#results)
-- [Workflow Explanation](#workflow-explanation)  {{ edit_1 }}
-- [Understanding Sarcasm Detection](#understanding-sarcasm-detection)  {{ edit_2 }}
+- [Workflow Explanation](#workflow-explanation)  
+- [Understanding Sarcasm Detection](#understanding-sarcasm-detection)  
 
 ## Workflow Explanation
 The workflow of the sarcasm detection model consists of several sequential steps:
